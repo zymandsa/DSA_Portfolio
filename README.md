@@ -7,6 +7,7 @@ My Data Science &amp; Analytics Portfolio
 * Line 3
 * Line 4
 * Line 5
+![](https://github.com/zymandsa/DSA_Portfolio/blob/main/images/big-data-center-analyzes-data-science-background-presentation-big-data-center-analyzes-data-science-background-159196598.jpg)
 
 # [Data Science & Analytics Project 2](https://github.com/zymandsa/DSA_Portfolio)
 * Line 1
